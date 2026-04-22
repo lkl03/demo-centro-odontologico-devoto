@@ -1,2 +1,7 @@
-# demo-centro-odontologico-devoto
-Demo web para Centro Odontológico Devoto — diseñada por eterlab.
+# Centro Odontológico Devoto
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
